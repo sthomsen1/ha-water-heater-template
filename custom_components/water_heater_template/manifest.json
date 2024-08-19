@@ -1,0 +1,15 @@
+{
+  "domain": "water_heater_template",
+  "name": "Water Heater Template",
+  "codeowners": [
+    "@sthomsen1"
+  ],
+  "dependencies": [
+    "template"
+  ],
+  "documentation": "https://github.com/sthomsen1/ha-template-water-heater",
+  "iot_class": "calculated",
+  "issue_tracker": "https://github.com/sthomsen1/ha-template-water-heater/issues",
+  "requirements": [],
+  "version": "0.0.0"
+}
